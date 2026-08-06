@@ -1,0 +1,4 @@
+Machine 103 | Plant: Plant A | Efficiency: 26.32 | Maintenance Cost: 18000
+Machine 101 | Plant: Plant A | Efficiency: 25.0 | Maintenance Cost: 15000
+Machine 102 | Plant: Plant B | Efficiency: 21.95 | Maintenance Cost: 22000
+Machine 104 | Plant: Plant C | Efficiency: 20.0 | Maintenance Cost: 25000
